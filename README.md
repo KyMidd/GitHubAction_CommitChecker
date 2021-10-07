@@ -1,1 +1,0 @@
-# GitHubAction_CommitChecker
